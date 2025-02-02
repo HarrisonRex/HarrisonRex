@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarrisonRex
-- 🌱 I’m currently doing a degree in computer science
+- 🌱 I have a degree in computer science :)
 
 <!---
 HarrisonRex/HarrisonRex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
